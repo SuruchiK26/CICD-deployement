@@ -1,1 +1,2 @@
-# E-waste-management-system
+# G4_CICD_Pipeline
+"Gaining hands-on experience in implementing Continuous Integration and Continuous Deployment (CI/CD) pipelines. Practicing automated build, test, and deployment workflows using tools like GitHub Actions/Jenkins. Focused on improving code quality, reducing manual effort, and enabling faster and more reliable delivery of applications. Learning to integrate version control with automation scripts, perform unit testing before deployment, and configure deployment environments."
