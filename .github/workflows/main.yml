@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: VM_HOST   //vm_host is an ip address
     steps:
-      - uses: actions/checkout@v4    //git pull origin main
+      - uses: actions/checkout@v4  
 
       - name: Deploy via SSH
         uses: appleboy/ssh-action@v0.1.10
